@@ -1,0 +1,16 @@
+// Passo a passo da criação do projeto //
+
+*Link do Vite*
+- https://vite.dev/guide/
+
+*Criar projeto Vite do zero*
+-npm create vite@latest "nome do projeto"
+
+*Entrar na pasta*
+- cd primeiro
+
+*Criar node_modules*
+- npm install
+
+*Iniciar o projeto*
+- npm run dev
