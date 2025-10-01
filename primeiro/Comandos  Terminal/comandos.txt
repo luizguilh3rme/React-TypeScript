@@ -12,5 +12,5 @@
 *Criar node_modules*
 - npm install
 
-*Iniciar o projeto*
+*Iniciar o projeto pelo cmd*
 - npm run dev
